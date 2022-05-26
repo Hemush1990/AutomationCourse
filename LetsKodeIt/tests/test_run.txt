@@ -1,0 +1,38 @@
+1653547391.798931 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029392B8D690>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/d381b962ecfffad6e81750874f9d4fc8
+1653547395.858356 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029392B8F8E0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/d381b962ecfffad6e81750874f9d4fc8
+1653547399.895395 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029392B8F790>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение')': /session/d381b962ecfffad6e81750874f9d4fc8
+1653548488.828890 - INFO - Sign up is success
+1653548497.902543 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))': /session/7a5103cb6d863143f726e7f2a173cf0c
+1653548517.905037 - INFO - Sign up is success
+1653548519.891601 - INFO - Logging out from the account
+1653548520.731469 - INFO - Signed in to the account
+1653548525.153111 - INFO - Sign in is success for the user mail1799009@mail.ru
+1653548526.240243 - INFO - Searching the word selenium
+1653548526.298088 - INFO - The amount of results is [<selenium.webdriver.remote.webelement.WebElement (session="a8699b6ea22d77be7fd83c5c5e810f2c", element="e1932c49-ff4f-4734-95a5-f13a395c6037")>, <selenium.webdriver.remote.webelement.WebElement (session="a8699b6ea22d77be7fd83c5c5e810f2c", element="2c784737-4197-4eb2-bf64-e83349fad06f")>, <selenium.webdriver.remote.webelement.WebElement (session="a8699b6ea22d77be7fd83c5c5e810f2c", element="4e90912d-d1bd-4ef4-ac60-22ae86c6d3a2")>, <selenium.webdriver.remote.webelement.WebElement (session="a8699b6ea22d77be7fd83c5c5e810f2c", element="c7ebee1d-5c35-4723-861d-83068c5bd8cc")>, <selenium.webdriver.remote.webelement.WebElement (session="a8699b6ea22d77be7fd83c5c5e810f2c", element="593aa189-f5fd-4e88-a797-17e77cd1533b")>, <selenium.webdriver.remote.webelement.WebElement (session="a8699b6ea22d77be7fd83c5c5e810f2c", element="1cf2255e-e9a6-42c0-b05c-fd66bef1537b")>]
+1653548627.853106 - INFO - Sign up is success
+1653548629.386531 - INFO - Logging out from the account
+1653548630.834059 - INFO - Signed in to the account
+1653548635.222281 - INFO - Sign in is success for the user mail17989009@mail.ru
+1653548636.442674 - INFO - Searching the word selenium
+1653548636.787929 - INFO - The amount of results is ["Let's Kode It\n$99\nJavaScript for beginners\nA Complete Guide\n ", "Let's Kode It\n$984\nComplete Test Automation Bundle\nLearn all Test Automation courses in one place\n ", "Let's Kode It\n$199\nSelenium WebDriver With Python 3.x\nNovice To Ninja - Build an automation framework from scratch\n ", "Let's Kode It\n$199\nSelenium WebDriver Advanced\nIndustry Standard Framework\n ", "Let's Kode It\n$199\nRest API Automation With Rest Assured\nFramework Implementation From Scratch - Novice To Ninja\n ", "Let's Kode It\n$99\nTestNG Complete Bootcamp - Novice To Ninja\nA-Z guide for learning TestNG (Next Generation) to speed up your automation goals\n "]
+1653548696.354357 - INFO - Sign up is success
+1653548699.165665 - INFO - Logging out from the account
+1653548700.074076 - INFO - Signed in to the account
+1653548704.436690 - INFO - Sign in is success for the user 5684@mail.ru
+1653548705.469628 - INFO - Searching the word selenium
+1653548705.718706 - INFO - The amount of results is 6
+1653562651.174485 - INFO - Sign up is success
+1653564087.881354 - INFO - Sign up is success
+1653564155.634269 - INFO - Sign up is success
+1653564507.219899 - INFO - Sign up is success
+1653564536.361863 - INFO - Sign up is success
+1653564597.082499 - INFO - Sign up is success
+1653564641.945950 - INFO - Sign up is success
+1653564687.446272 - INFO - Sign up is success
+1653564736.050558 - INFO - Sign up is success
+1653564785.895532 - INFO - Sign up is success
+1653564788.616433 - INFO - Logging out from the account
+1653564789.492390 - INFO - Signed in to the account
+1653564793.935291 - INFO - Sign in is success for the user testhw@mail.com
+1653564795.254509 - INFO - Searching the word selenium
+1653564795.667846 - INFO - The amount of results is 6
